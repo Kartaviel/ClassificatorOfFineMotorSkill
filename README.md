@@ -1,1 +1,2 @@
 # ClassificatorOfFineMotorSkill
+Многослойный персептрон, созданный для классификации траекторий движений передних лап животных в модели, предложенной в статье Эшли Блэквелл “String-pulling for food by the rat: Assessment of movement, topography and kinematics of a bilaterally skilled forelimb act” и публикации Мюриэл Харт “String-Pulling as a Behavioral Assessment of Skilled Forelimb Motor Function in a Middle Cerebral Artery Occlusion Rat Model” с использованием ПО Самсун Инайят “A Matlab-based toolbox for characterizing behavior of rodents engaged in string-pulling”. 
